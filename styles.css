@@ -1,0 +1,55 @@
+/* Mobile-friendly compact CSS */
+body {
+    font-family: Arial, sans-serif;
+    padding: 10px;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+h1 {
+    color: #063b5a;
+    font-size: 18px;
+    text-align: center;
+}
+
+button {
+    width: 100%;
+    background-color: #fdc229;
+    color: #063b5a;
+    border: none;
+    padding: 10px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button:hover {
+    background-color: #fec329;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 10px 0;
+}
+
+ul li {
+    background-color: #fff;
+    padding: 8px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    font-size: 14px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+div {
+    margin-top: 20px;
+}
